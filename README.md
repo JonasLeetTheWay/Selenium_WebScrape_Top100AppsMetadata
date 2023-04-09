@@ -44,5 +44,7 @@ pip install openpyxl
 3. Run script.
 
 ### Helper videos
-https://www.youtube.com/watch?v=ZmSb3LZDdf0&ab_channel=ShiftytheDev
-https://www.youtube.com/watch?v=pUUhvJvs-R4&list=PLRzwgpycm-FgQ9lP_JTfrCa9O573XiJph&ab_channel=JohnWatsonRooney
+<p></p>
+[How I use SELENIUM to AUTOMATE the Web with PYTHON. Pt1](https://www.youtube.com/watch?v=pUUhvJvs-R4&list=PLRzwgpycm-FgQ9lP_JTfrCa9O573XiJph&ab_channel=JohnWatsonRooney)
+<p></p>
+[Skills for further selenium tips](https://www.youtube.com/watch?v=ZmSb3LZDdf0&ab_channel=ShiftytheDev)
